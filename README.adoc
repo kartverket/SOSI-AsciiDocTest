@@ -10,6 +10,10 @@
 
 == Header
 
+*Just a lazy proof of concept auto generating html documents based on asciidoc syntax and asciidoctor*
+
+*nothing to see here, move along* - Barbrady
+
 Lorem ipsum ... !
 
 Heisann
