@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SOSI-AsciiDocTest
+spec:
+  type: documentation
+  owner: standardisering
+  lifecycle: development
+  system: standardisering
